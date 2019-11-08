@@ -16,7 +16,7 @@ git submodule update --init --recursive
 
 ## M5 Cameraの設定(macOSの場合)
 ```
-menu config
+make menuconfig
 
 - Serial flasher config
     - Default serial port = /dev/cu.SLAB_USBtoUART
